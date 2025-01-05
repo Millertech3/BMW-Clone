@@ -47,7 +47,7 @@ const StyledDiv = styled.div`
 	flex-direction: column;
 	gap: 85px;
 	background-attachment: fixed;
-	background: url("\heroImg.webp");
+	background: url("src/assets/wpimg/heroimg.webp");
 	background-repeat: no-repeat;
 	background-size: 100%;
 	height: 70vh;

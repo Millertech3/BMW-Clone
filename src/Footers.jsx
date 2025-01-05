@@ -114,10 +114,10 @@ export default function Footers() {
 					<h6 className="h6">YouTube</h6>
 				</div>
 
+			</StyledBig>
 				<div className="copyRight">
         <h3 className="cr"> &copy; BMW AG 2024</h3>
         </div>
-			</StyledBig>
 		</StyledDiv>
 	);
 }

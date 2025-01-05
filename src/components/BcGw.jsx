@@ -19,7 +19,7 @@ const StyledGameChanger = styled.div`
 	}
 `;
 const StyledWallpaper = styled.div`
-	background: url("\graycar.webp");
+	background: url("src/assets/wpimg/graycar.webp");
 
 	width: 50.5%;
 	height: 100vh;

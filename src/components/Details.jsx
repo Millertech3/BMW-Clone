@@ -77,7 +77,7 @@ export default function Details() {
 						<div className="carousel-inner">
 							<div className="carousel-item active" >
 								<img
-									src="src\assets\detailImg\n-01-media-hd.webp"
+									src="src/assets/detailImg/n-01-media-hd.webp"
 									className="d-block w-100"
 									alt="..."
 									id="img1"
@@ -85,7 +85,7 @@ export default function Details() {
 							</div>
 							<div className="carousel-item">
 								<img
-									src="src\assets\detailImg\n-02-media-hd.webp"
+									src="src/assets/detailImg/n-02-media-hd.webp"
 									className="d-block w-100"
 									alt="..."
 									id="img3"
@@ -93,7 +93,7 @@ export default function Details() {
 							</div>
 							<div className="carousel-item">
 								<img
-									src="src\assets\detailImg\n-03-media-hd.jpg"
+									src="src/assets/detailImg/n-03-media-hd.jpg"
 									className="d-block w-100"
 									alt="..."
 									id="img3"
@@ -132,7 +132,7 @@ export default function Details() {
 			
 				<video 
 				className="vid"
-					src="src\assets\videoAsset\videoBMW.mp4"
+					src="src/assets/videoAsset/videoBMW.mp4"
 					width={640}
 					height={360}
 					autoPlay
