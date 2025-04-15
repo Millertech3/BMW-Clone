@@ -135,7 +135,7 @@ const Header = (props) => {
 
 				<StyledIcon>
 					<div className="logo">
-						<img src="src\assets\bmw-logo.svg" alt="BMW Logo" />
+						<img src="\src\assets\bmw-logo.svg" alt="BMW Logo" />
 					</div>
 				</StyledIcon>
 			</StyledNav>
